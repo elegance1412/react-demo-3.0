@@ -7,6 +7,7 @@ import Layout from './component/Layout';
 class App extends Component {
   render() {
     return (
+      
       <Layout></Layout>
     );
   }
